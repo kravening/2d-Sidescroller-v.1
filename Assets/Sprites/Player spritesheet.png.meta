@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: e4ad8c49393877448bad7964f5bf5a07
+timeCreated: 1426532930
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_Idle
+    21300002: Player_JumpFrame_1
+    21300004: Player_JumpFrame_2
+    21300006: Player_JumpFrame_3
+    21300008: Player_JumpFrame_4
+    21300010: Player_JumpFrame_5
+    21300012: Player_JumpFrame_6
+    21300014: Player_gun
+    21300016: Player_hand
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player_Idle
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 157
+        width: 612
+        height: 613
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_JumpFrame_1
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 142
+        width: 586
+        height: 642
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_JumpFrame_2
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 125
+        width: 554
+        height: 674
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_JumpFrame_3
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 107
+        width: 530
+        height: 707
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_JumpFrame_4
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 92
+        width: 503
+        height: 742
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_JumpFrame_5
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 75
+        width: 480
+        height: 777
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_JumpFrame_6
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 49
+        width: 458
+        height: 815
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_gun
+      rect:
+        serializedVersion: 2
+        x: 4645
+        y: 441
+        width: 645
+        height: 431
+      alignment: 9
+      pivot: {x: .212167665, y: .18110688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_hand
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 277
+        width: 346
+        height: 141
+      alignment: 9
+      pivot: {x: .116088159, y: .374388784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

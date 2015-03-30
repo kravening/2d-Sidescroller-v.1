@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: cc74a7b7e3c79a142a3a85ee6d7f8a34
+timeCreated: 1426853378
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cloud sheet blurred _0
+    21300002: Cloud sheet blurred _1
+    21300004: Cloud sheet blurred _2
+    21300006: Cloud sheet blurred _3
+    21300008: Cloud sheet blurred _4
+    21300010: Cloud sheet blurred _5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cloud sheet blurred _0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 599
+        width: 536
+        height: 392
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud sheet blurred _1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 631
+        width: 384
+        height: 349
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud sheet blurred _2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 306
+        width: 446
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud sheet blurred _3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 59
+        width: 519
+        height: 275
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud sheet blurred _4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 403
+        width: 610
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud sheet blurred _5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 415
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
